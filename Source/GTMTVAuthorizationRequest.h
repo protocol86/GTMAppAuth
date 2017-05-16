@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <AppAuth/OIDAuthorizationRequest.h>
+#import "OIDAuthorizationRequest.h"
 
 @class GTMTVServiceConfiguration;
 
